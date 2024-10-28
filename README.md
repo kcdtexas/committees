@@ -21,6 +21,8 @@ This committee will be in charge of marketing for KCD Texas 2025. This includes 
 ## VENUE COMMITTEE
 This committee will be in charge of everything venue-related. This includes procuring microphones, speakers, lecturn, projector as required. Communicating with the venue to coordinate food and catering (additional tables, etc.), and stage management / AV. This committee will also be in charge of the happy hour venue, which must take place at a separate venue.
 
+[more detail](venue-committee.md)
+
 ## SPONSOR COMMITTEE
 This committee will be in charge of sponsors for KCD Texas 2025. This includes soliciting and communication with sponsors. Structuring of sponsor packages (benefits and price), guiding/educating sponsors on how best to structure and engage with the event while sponsoring. Coordinating with A/V on requirements for sponsors for their presentations, and communicate them in a timely manner.
 
