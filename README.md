@@ -26,6 +26,8 @@ This committee will be in charge of everything venue-related. This includes proc
 ## SPONSOR COMMITTEE
 This committee will be in charge of sponsors for KCD Texas 2025. This includes soliciting and communication with sponsors. Structuring of sponsor packages (benefits and price), guiding/educating sponsors on how best to structure and engage with the event while sponsoring. Coordinating with A/V on requirements for sponsors for their presentations, and communicate them in a timely manner.
 
+[more detail](sponsor-committee.md)
+
 ## CORE EVENT COMMITTEE
 This committee will be in charge of the structure and logistics of the event being held overall. They set the tone, the pace of organizing, and the overall theme (with input from the rest of the organizing team). This includes coordinating with the MC for the conference, maintaining the project boards for the organizer team, running the weekly meetings, and ensuring the event runs with as little problems as possible.
 
