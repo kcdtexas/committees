@@ -35,3 +35,5 @@ This committee will be in charge of the structure and logistics of the event bei
 
 ## VOLUNTEER COMMITTEE
 This committee will be in charge of volunteers for the event. This includes recruiting for areas as needed, coordinating with volunteers on tasks, roles, and responsibilities, and being the point of contact(s) during the event.
+
+[more detail](volunteer-committee.md)
