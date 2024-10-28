@@ -31,5 +31,7 @@ This committee will be in charge of sponsors for KCD Texas 2025. This includes s
 ## CORE EVENT COMMITTEE
 This committee will be in charge of the structure and logistics of the event being held overall. They set the tone, the pace of organizing, and the overall theme (with input from the rest of the organizing team). This includes coordinating with the MC for the conference, maintaining the project boards for the organizer team, running the weekly meetings, and ensuring the event runs with as little problems as possible.
 
+[more detail](core-committee.md)
+
 ## VOLUNTEER COMMITTEE
 This committee will be in charge of volunteers for the event. This includes recruiting for areas as needed, coordinating with volunteers on tasks, roles, and responsibilities, and being the point of contact(s) during the event.
