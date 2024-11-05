@@ -13,41 +13,41 @@ Lead: @chadmcrowell
 ## SESSION COMMITTEE
 This committee will be in charge of speaker selection and communication. This includes talk selection, and all speaker communications.
 
-Lead: @ewassef
+Moderator: @ewassef
 
 [more detail](session-committee.md)
 
 ## MARKETING COMMITTEE
 This committee will be in charge of marketing for KCD Texas 2025. This includes logo design for the event and swag, external communcations (social media leading up to, during, and after the event), email lists, promotional and advertising communications (as necessary), and coordinating with logistics on badges. Includes getting swag for attendees, speakers, and organizers/volunteers. Also, getting badges, lanyards, t-shirts, and gifts for speakers/organizers/volunteers.
 
-Lead: @cristhercastro
+Moderator: @cristhercastro
 
 [more detail](marketing-committee.md)
 
 ## VENUE COMMITTEE
 This committee will be in charge of everything venue-related. This includes procuring microphones, speakers, lecturn, projector as required. Communicating with the venue to coordinate food and catering (additional tables, etc.), and stage management / AV. This committee will also be in charge of the happy hour venue, which must take place at a separate venue.
 
-Lead: @brito-rafa
+Moderator: @brito-rafa
 
 [more detail](venue-committee.md)
 
 ## SPONSOR COMMITTEE
 This committee will be in charge of sponsors for KCD Texas 2025. This includes soliciting and communication with sponsors. Structuring of sponsor packages (benefits and price), guiding/educating sponsors on how best to structure and engage with the event while sponsoring. Coordinating with A/V on requirements for sponsors for their presentations, and communicate them in a timely manner.
 
-Lead: @harsha1979
+Moderator: @harsha1979
 
 [more detail](sponsor-committee.md)
 
 ## CORE EVENT COMMITTEE
 This committee will be in charge of the structure and logistics of the event being held overall. They set the tone, the pace of organizing, and the overall theme (with input from the rest of the organizing team). This includes coordinating with the MC for the conference, maintaining the project boards for the organizer team, running the weekly meetings, and ensuring the event runs with as little problems as possible.
 
-Lead: Jamie Parker
+Moderator: Jamie Parker
 
 [more detail](core-committee.md)
 
 ## VOLUNTEER COMMITTEE
 This committee will be in charge of volunteers for the event. This includes recruiting for areas as needed, coordinating with volunteers on tasks, roles, and responsibilities, and being the point of contact(s) during the event.
 
-Lead: @moezmustafa
+Moderator: @moezmustafa
 
 [more detail](volunteer-committee.md)
