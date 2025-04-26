@@ -6,7 +6,7 @@ Each committee will have a Lead (i.e. point person), and at least one other memb
 ## FINANCE COMMITTEE
 This committee will be in charge of finance. This includes creating the budget, being the POC with Jeff Gallimore (our fiscal sponsor), keeping track of the current state of the account, and determining what to pay, and when to pay, on contracts in lieu of cashflow.
 
-Moderator: @chadmcrowell
+Moderator: Chad Crowell
 
 [more detail](finance-committee.md)
 
@@ -48,6 +48,6 @@ Moderator: Jamie Parker
 ## VOLUNTEER COMMITTEE
 This committee will be in charge of volunteers for the event. This includes recruiting for areas as needed, coordinating with volunteers on tasks, roles, and responsibilities, and being the point of contact(s) during the event.
 
-Moderator: @moezmustafa
+Moderator: Mars Toktonaliev
 
 [more detail](volunteer-committee.md)
