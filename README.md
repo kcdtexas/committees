@@ -48,6 +48,6 @@ Moderator: Jamie Parker
 ## VOLUNTEER COMMITTEE
 This committee will be in charge of volunteers for the event. This includes recruiting for areas as needed, coordinating with volunteers on tasks, roles, and responsibilities, and being the point of contact(s) during the event.
 
-Moderator: Mars Toktonaliev
+Moderator: Mars Toktonaliev & @snagaram3
 
 [more detail](volunteer-committee.md)
