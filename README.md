@@ -13,7 +13,7 @@ Moderator: @richardboydii & @brito-rafa
 ## SESSION COMMITTEE
 This committee will be in charge of speaker selection and communication. This includes talk selection, and all speaker communications.
 
-Moderator: @ewassef
+Moderator: @CrisNevares
 
 [more detail](session-committee.md)
 
